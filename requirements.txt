@@ -1,0 +1,6 @@
+scikit-learn
+scikit-fuzzy
+numpy
+pandas
+plotly
+tensorflow
